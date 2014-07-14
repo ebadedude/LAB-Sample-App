@@ -19,8 +19,8 @@ Using a HTML table, list the type of sports based on total medal count (descendi
 
 
 **Libraries:**
-Twitter Bootstrap – [http://getbootstrap.com](http://getbootstrap.com) (Web Template Tool)
-D3JS – [http://d3js.org](http://d3js.org) (Visualization Tool)
+- Twitter Bootstrap – [http://getbootstrap.com](http://getbootstrap.com) (Web Template Tool)
+- D3JS – [http://d3js.org](http://d3js.org) (Visualization Tool)
 
 **Important Links:**
-Sample Data URL – [https://apps.mathbiol.org/sdata](https://apps.mathbiol.org/sdata)
+- Sample Data URL – [https://apps.mathbiol.org/sdata](https://apps.mathbiol.org/sdata)
