@@ -3,6 +3,12 @@ LAB-Sample-App
 
 Sample web app that is intended to be used for testing/teaching
 
+The Aim of this project was to access the following points amongst other things:
+- Data manipulation
+- Basic statistical ability
+- Understanding of JavaScript, HTML and CSS
+- Ability to use external libraries
+
 Here are the questions this project answers
 -------------------------------------------
 
